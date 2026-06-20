@@ -29,14 +29,13 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 600,
+      "repeat-delay": 120,
       "messages": [
         "hi",
         "hi guys",
         "blehh",
         "natatae ako",
         "hello",
-        "help me",
         "dih"
       ]
     },
